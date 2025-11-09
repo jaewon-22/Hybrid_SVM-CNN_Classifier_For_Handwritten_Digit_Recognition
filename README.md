@@ -1,7 +1,7 @@
 # Hybrid CNN-SVM Classifier for Handwritten Digit Recognition
 
 **Author**
-**Iustin-Andrei Moisa-Tudor**
+**Jaewon Tudor**
 
 ## Overview
 This project implements a hybrid approach combining Convolutional Neural Networks (CNN) for feature extraction with Support Vector Machines (SVM) for classification to achieve superior handwritten digit recognition performance on the MNIST dataset.
